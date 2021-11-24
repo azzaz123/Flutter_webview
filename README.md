@@ -21,6 +21,6 @@ i) flutter webview with website preview:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;a) Header:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;b) Body:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;c) Footer:<br>
-<img src='images/ss1.jpeg' width=300 height=600>
-<img src='images/ss2.jpeg' width=300 height=600>
-<img src='images/ss3.jpeg' width=300 height=600>
+<img src='images/ss1.jpeg' width=250 height=600>
+<img src='images/ss2.jpeg' width=250 height=600>
+<img src='images/ss3.jpeg' width=250 height=600>
